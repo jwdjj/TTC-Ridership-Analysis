@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is based on final project of Scientific Data Analysis (CSCI2000U) at UOIT
+This project is created for CSCI2000 (Scientific Data Analysis) course
 
 The project is analyzing TTC ridership data over the years, during certain time, and who are the riders.
 
